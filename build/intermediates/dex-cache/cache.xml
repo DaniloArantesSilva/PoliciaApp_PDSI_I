@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_c3c5092bd7b5aace6c56beb4c8d046a6e81021fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_4efee171124b4d28519915360db1d31e8a53cbc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_943486780097ba8604016cc0cd173b4c98881fa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_b238ba160dd869af318f81c8b14f329f32829737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_08e86cdecf50f8cdb52f585a3cf373f07df8d7eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_cb64907c600c6a7c93b5ac93ff0ef06718bd8d5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_2695ee0df86e0f692dd0772c3538d65dd5ea6ab5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_8df6fe64f11875417e3ee4ba3c833117808b7f99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_9f0928bf09d78d396950af8da93b20a2943895fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_7994d4f6ca0a81182b3ded3f8284852ce024c9ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_cbf1f2a816194c2b1b3db0cae10df30c6d0b05bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_3f7df7719477534d3f05c83157ff754d2f290853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_e51845660b0b828660327cec02382f738bf28999\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_701807e4b8456da76b832d9e7dbe63e9979c3a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_c8a622115f7f4bdad57a5f8a1c533b5c15ee76ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_220482e3d0587453c7771dae6005cddd205b7771\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_137d91c87f00bed9655c4fc3e4f90a4da786f5ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_34b2267128a216aa142f1cf2e3146a537c02d840\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_79cae3c0016d99e63b071fcc182d04b4d93adc02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_dfd66259abe635a2481a898cf22585cb0fbac3b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_1791afec110d16027a5eea351eca16e01de67638\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_a549967824ec01e9871e11de25c562f64c8279cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_838a030f3a4df7f2c3690a4ab925537ab15a854c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_d37bd52e70bf3dd6462eb19513fd4e595f35125d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_b3837319532697e3cace2622103305aab0f92fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_c96acff42c450526a1e36c0226db0be2e69c5e1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_7ffe2811756eadb3206770bbf586ec45f768c9b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_5f7c5f79b08c8f13deec61a870c566a3a91fca06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_93b930cfa0dae6635cd6253165879ebc04abec87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_1b90f76cffde0602ba7d2cd114ad52afe3622998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_c8da1ead0b493f7de48513637942aa55895635fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_e33d3093fb18542adca786602048c4fd44879526\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_a7cbf077d77c59db80feef8948a989e88d4210b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_2a2bedbbca0a48d40e8c6304043b76504f8adabb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_9c7c7bdb434b47874e861fdf7f431f234aad7e52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_2ef74e35a6ec3e8fc0c073b7ef6416100a2cf358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_9f6979e178f6ee2d036ce4e857383d01ce68318f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_59c8bcfc085c2f0906935a4c139569be9900209c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_51b674eaac5f49a92e9c4741aa852d0d63821161\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_4d502934beaf9f324130e3008f8cee82dcf9a18f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_b5ccb6ae321839bbae372fb1c93c0ef2e22383cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_0c5591a2e90c8e67cb58985cb8cd1dd17e09e297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_36406befe6b373bf71033206e635a32f467630d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_31312f714db17af9fdac6c4b65949ff5ee82f0a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_889661d8e8d67d89566dd4e4af8682211a5e6888\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_6d02e4fa9521aba6132ac35f3c5b8caa0109122d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_6acd8c91870d1d7c0a03c4fac12d0c244c865da5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_b2140e6152aaa6019e98fa1b2f35370ff4781d7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_b6b2d7d820a8f0e0fc332cd0a616131325870e6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_b39cdd45b5524b212e5db73a63815db8811c5578\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_7fc60dd6c41dd3c1edb85bb1f3e63c94660b3864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_d08eda30a519ce4b82cd67337660b14914f3be97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_5c8c7dcdce2676ba212103c7501e4c5a90027721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_94a4c79140cd68d66c1911625f0e22a15b0e532f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_39824980d92c1b4f491ca83d4b17495854a3a8c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_9c4064107a1248e7cba4741038961a03e06e9302\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_698ea7d6dae680f076d3908ed2ae3e67f19983d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b048ea186446ef86d53017ca9ec7a883e74af0a">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6c657019c593c877fa43563d746b76c41dcf224b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_9d459e0a108f06dc6b554b140fac82e1d16e2f7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_2d6f9dba3fb264f6050507d26f8c3ef2fa5d9281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_a049d7609314cff01f9fd78ddc70d6313703820d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_d01923d7278517b0668d49ad170b347fb2909a27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_4b456fe23bb27ab0affcf4049a6e67fbc3bfa843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_e2303b461de8be37762a28c93fde753dbf6fa112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_cd08cecbe6ead60ba8dcaac3890c2164b5d64891\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="078d547c662b95c58834dff7d7935a08554476d0">
+        <dex dex="C:\Users\Danilo\Desktop\PoliciaApp\PoliciaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_263eb6ca69004e2ef3f4163f8d3337ab26a024fb\classes.dex" />
+    </item>
+
+</items>
