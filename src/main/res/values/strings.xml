@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PoliciaApp</string>
+    <string name="title_activity_maps">Polícia APP</string>
+    <string name="action_open">Abrir Ocorrência</string>
+    <string name="action_cancel">Cancelar Ocorrência</string>
+    <string name="google_maps_key">AIzaSyCTyQiJKX1LdDUaENv6-MKCDBVIbcxcGN0</string>
+    <string name="title_activity_main">Abrir Ocorrência</string>
+    <string name="title_activity_teste">teste</string>
+</resources>

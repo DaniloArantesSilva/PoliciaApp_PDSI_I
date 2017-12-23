@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="top"
+        android:id="@+id/rgOcorrencia">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Tipo de Ocorrência"
+            android:textSize="@dimen/cast_libraries_material_featurehighlight_center_horizontal_offset"
+            android:layout_gravity="top"
+            android:textStyle="bold"
+            android:id="@+id/tvOcorrencia" />
+
+        <RadioButton
+            android:id="@+id/rbRouboFurtoVeiculo"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Roubo/Furto de Veículo"
+            android:textColorLink="@color/common_google_signin_btn_text_dark_focused"
+            android:checked="true"
+            android:buttonTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"/>
+        <RadioButton
+            android:id="@+id/rbRouboFurtoPerdaObjPerdaDoc"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Roubo/Furto/Perda de Obj/Doc"
+            android:checked="false"
+            android:buttonTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"/>
+        <RadioButton
+            android:id="@+id/rbInjuriaCalunaDifamacao"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Injúria/Calúnia/Difamação"
+            android:checked="false"
+            android:buttonTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"/>
+        <RadioButton
+            android:id="@+id/rbAcidenteTransitoSemVitima"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Acidente de Trâns. sem Vítima"
+            android:checked="false"
+            android:buttonTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"/>
+        <RadioButton
+            android:id="@+id/rbDesaparecimentoPessoa"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Desaparecimento de Pessoa"
+            android:checked="false"
+            android:buttonTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"/>
+        <RadioButton
+            android:id="@+id/rbEncontroPessoa"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Encontro de Pessoa"
+            android:checked="false"
+            android:buttonTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"/>
+        <RadioButton
+            android:id="@+id/rbComplementoDeBoletim"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Complemento de Boletim"
+            android:checked="false"
+            android:buttonTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"/>
+        <RadioButton
+            android:id="@+id/rbAcompanhamento"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Acompanhamento"
+            android:checked="false"
+            android:buttonTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"/>
+        <RadioButton
+            android:id="@+id/rbDepaProtecaoAnimal"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="DEPA - Proteção Animal"
+            android:checked="false"
+            android:buttonTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"/>
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Anexos"
+        android:textSize="@dimen/cast_libraries_material_featurehighlight_center_horizontal_offset"
+        android:layout_gravity="top"
+        android:textStyle="bold"
+        android:id="@+id/tvAnexo" />
+</LinearLayout>
